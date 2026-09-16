@@ -1,0 +1,43 @@
+img{
+    width: 30%;
+    height:auto;
+    text-align: center;
+}
+
+th{ 
+    color:#5f5a0d;
+}
+
+body{ 
+    background-color: #e4acd3;
+}
+
+table, th, td {
+    border: 2px solid #852020;
+    border-collapse: collapse;
+    width: 50%;
+    text-align: center;
+}
+
+img[title=Inception]{
+    width: 40%;
+}
+
+aside{
+    margin-top:20px;
+}
+
+figure, section{
+    display: table;
+    clear: both;
+}
+
+footer{
+    padding-top: 50px;
+}
+
+h1{
+    color: #852020;
+    text-align: center;
+    text-decoration: underline;
+}

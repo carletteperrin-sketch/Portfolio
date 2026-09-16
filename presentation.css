@@ -1,0 +1,18 @@
+body{
+    background-color: #e4acd3;
+}
+
+#lycee-image{
+    width: 40%;
+    height:auto;
+    text-align: center;
+    border:#94467c solid 4px;
+}
+
+h1 { 
+  color: #852020; text-align: center; text-decoration: underline;
+}
+
+footer{
+    padding-top: 50px;
+}

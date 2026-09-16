@@ -1,0 +1,31 @@
+body{
+    background-color: #e4acd3;
+}
+
+.voyage{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.voyage img {
+    width: 400px;
+    height: auto;
+    border-radius: 20px;
+    margin-left: 50px;
+    margin-right: 50px; 
+    margin-top: 40px;
+    padding-bottom: 50px;
+}
+
+#grece, figcaption{
+    float: left;
+}
+
+#italie, figcaption{
+    float: right;
+}
+
+#angletterre, figcaption{
+    display: block;
+    margin: 0 auto;
+}
