@@ -1,0 +1,89 @@
+
+body{
+    background: linear-gradient( to right, hwb(310 51% 17%), rgb(180, 74, 182))
+}
+
+h3 { 
+  color: #852020; text-align: center;  
+  text-decoration: solid; 
+}
+
+section {
+  color: hwb(145 13% 63%); text-align: center; 
+  margin-right: 20px; 
+  margin-top: 30px; 
+}
+
+#profil { 
+    width: 20%;
+    height: auto;
+    margin-bottom: 30px;
+    border-radius:50%;
+    border: 5px solid #610d41;
+}
+ 
+
+
+header {
+  color:#852020; text-align: center;
+  
+  
+}
+
+h1 { 
+  color: #852020; text-align: center; text-decoration: underline;
+}
+
+
+aside, a {
+  color: #450505;
+
+}
+
+aside {
+  clear: left;
+  padding-top: 20px;
+  border:1px solid #610d41;
+  padding-bottom: 20px;
+}
+
+h4,pre {
+  margin-left: 20px;
+}
+
+footer{
+    padding-top: 50px;
+    color:#852020; 
+
+}
+
+
+
+.clear {
+  clear: both;
+}
+
+
+.presentation {
+  display: block;
+  width: 50%;
+  margin-top: 50px;
+  margin-right: auto;
+  margin-left: auto;
+  border:#450505 solid 4px;
+  border-radius: 20px;
+}
+
+.activités {
+  display: block;
+  width: 50%;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 20px;
+  border:#450505 solid 4px;
+}
+
+
+

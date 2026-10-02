@@ -1,0 +1,108 @@
+body{
+    background: linear-gradient( to right, hwb(310 51% 17%), rgb(180, 74, 182))
+}
+
+
+img{
+    width: 20%;
+    height: auto;
+    border-radius: 20%;
+    box-shadow: 5px 5px 10px black;
+}
+.voyage {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    gap: 15px;
+    flex-wrap: wrap;
+
+}
+
+.voyage h3, .voyage p{
+    width: 100%;
+}
+
+.voy {
+    width:30%;
+    margin:0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.voyage img {
+    width:100%;
+    height: auto;
+}
+
+
+.sport {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    gap: 15px;
+    flex-wrap: wrap;
+}
+
+.sport h3, .sport p{
+    width: 100%;
+}
+
+.spr {
+    width:30%;
+    margin:0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.sport img{
+    width: 100%;
+    height: auto;
+}
+
+.amis {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    gap: 15px;
+    flex-wrap: wrap;
+}
+
+.amis h3, .amis p{
+    width: 100%;
+}
+
+.pote {
+    width:30%;
+    margin:0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.amis img{
+    width: 100%;
+    height: auto;
+}
+
+h3 {
+    margin-top:15px;
+    color:rgb(87, 110, 47);
+    text-decoration: underline;
+}
+
+h1 {
+    text-align: center;
+    color:#852020;
+    margin: 10px;
+    text-decoration: solid;
+    text-decoration: underline;
+}
+
+figcaption{
+    margin-top:10px;
+    text-decoration:dashed;
+}

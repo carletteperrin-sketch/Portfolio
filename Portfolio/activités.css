@@ -1,0 +1,63 @@
+img{
+    width: 30%;
+    height:auto;
+    text-align: center;
+}
+
+th{ 
+    color:#5f5a0d;
+}
+
+body{ 
+    background: linear-gradient( to right, hwb(310 51% 17%), rgb(180, 74, 182))
+}
+
+table, th, td {
+    border: 2px solid #852020;
+    border-collapse: collapse;
+    width: 50%;
+    text-align: center;
+    margin :auto;
+}
+
+img[title=Inception]{
+    width: 40%;
+}
+
+img[title=Bushi]{
+    width: 38%;
+}
+
+img[title=hand]{
+    width: 33%;
+}
+
+aside{
+    margin-top:20px;
+}
+
+figure, section{
+    display: table;
+    clear: both;
+}
+
+footer{
+    padding-top: 50px;
+}
+
+h1{
+    color: #852020;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.tableau2{
+    display: block;
+    margin-top:20px;
+    margin-bottom : 20px;
+}
+
+.tableau2 img{
+    width: 500%;
+    height: auto;
+}

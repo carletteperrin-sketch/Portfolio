@@ -1,0 +1,46 @@
+nav {
+  position:sticky;
+  top:0;
+  display:flex;
+  justify-content: space-between;
+  background-color:#ad40b9;
+  padding:10px;
+
+}
+
+nav a.lien{
+  text-decoration: none;
+  display:block;
+  background-color: #9f3aab;
+  border-radius: 20px;
+  padding-top:20px;
+  padding-bottom:0;
+  padding-right:10px;
+  padding-left:10px;
+  color: azure;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; }
+
+
+img[title=Instagram]{
+  width: 60px;
+  height: auto;
+  display: block;
+  
+}
+
+body{
+  margin:0px
+}
+
+
+footer{
+  display: block;
+  margin-top:20px;
+  text-align: center;
+  border:solid,2px;
+  padding-top:10px;
+  color: #852020;
+  
+}
+
+
